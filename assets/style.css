@@ -6,7 +6,7 @@
  
  
  body{
-    background: url('img/fundo.jpg');
+    background: url('img/mapa.jpg;
     font-family: Arial, Helvetica, sans-serif;
  }
 
@@ -50,4 +50,12 @@
         padding: 0.5rem;
         border-radius: 0.6rem;
         font-size: 1vw;
+}
+
+.cartao_conteudo_pergunta p {
+    color: var(--text-color)
+}
+.cartao_conteudo_resposta p {
+    color: var(--card-back-color)
+     font-weight: 500;
 }
