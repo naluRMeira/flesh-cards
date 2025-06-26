@@ -1,12 +1,12 @@
 :root {
     --text-color: #DBE4EF;
-    --card-front-color: #144480;
-    --card-back-color: #00F4BF;
+    --card-front-color: #96c5fd;
+    --card-back-color: #d83030;
 }
  
  
  body{
-    background-image: url('img/mapa.jpg;')
+    background-image: url('img/mapa.jpg;');
     font-family: Arial, Helvetica, sans-serif;
  }
 
